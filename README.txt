@@ -1,42 +1,31 @@
-===============================
-ML1 Projects - summer Session 2025
-===============================
+# ML1 Projects – Summer Session 2025
 
-Author: Giacomo Fantato - K16958
-Date: May 2025
+**Author:** Giacomo Fantato - K16958  
+**Date:** May 2025
 
-DESCRIPTION
------------
-This projects contains two machine learning models: those are stored in the Code folder
+---
 
-1. ElasticNet Regression (for apartment price prediction - regression)
-2. Logistic Regression (for travel insurance claim classification)
+## 📌 Description
 
-INSTRUCTIONS
-------------
-To run this project, execute only the following Jupyter notebooks:
+This project contains two machine learning models stored in the `Code` folder:
 
-- ElasticNet.ipynb
-- LogisticRegression.ipynb
+1. **ElasticNet Regression** – for apartment price prediction (regression)
+2. **Logistic Regression** – for travel insurance claim classification (binary classification)
 
-These notebooks contain the full data preprocessing, model training, evaluation, and final predictions.
+---
 
-OUTPUTS
--------
-Prediction results from both models are saved automatically in the following directory:
+## 🛠️ Instructions
 
-> data/results/
+To run this project, execute only the following Jupyter notebooks located in the `Code` folder:
 
-Make sure this folder exists before running the notebooks, or the code will create it as needed.
+- `ElasticNet.ipynb`
+- `LogisticRegression.ipynb`
 
-DEPENDENCIES
-------------
-- Python 3.12+
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
-- Jupyter Notebook
+Each notebook includes full data preprocessing, model training, evaluation, and final predictions.
 
-===============================
+---
+
+## 📂 Required Data
+
+All necessary data files must be **downloaded from the course folder** and placed in the following local directory:
+
